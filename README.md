@@ -4,11 +4,11 @@ Vrinda store wants to create an annual sales report for 2022. So that Vrinda can
 
 ## PROBLEM STATEMENT
 1. Compare the sales and orders using single chart
-2. Which month got the highest sales and orders.
-3. Who purchased more-men or women in 2022.
-4. What are different order status in 2022.
-5. List top 10 states contributing to the sales.
-6. Relation between age and gender based on number
+. Which month got the highest sales and orders.
+2. Who purchased more men or women in 2022.
+3. What are different order status in 2022.
+4. List top 5 states contributing to the sales.
+5. Relation between age and gender based on number
 7. which channel is contributing to maximum sales
 8. Highest selling category.
 
@@ -45,4 +45,23 @@ we will apply 'IF' condition
 =IF(E2>=60,"Senior",IF(E2>=40,"Middle Aged Adults",IF(E2>=18,"Young Adults",)))
 ![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/df14470b-cf42-4b87-bc94-bee954ab3830)
 
+## DATA PROCESSING
+CREATING PIVOT TABLE
+PROBLEM STATEMENT
+1. Compare the sales and orders using single chart
+![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/15aa7214-521e-4ea4-904b-d82f0a31e63c)
 
+2. Who purchased more men or women in 2022.
+![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/e5ab5fd6-5243-4171-951d-99e817b83fca)
+
+3. What are different order status in 2022.
+![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/2a8eb126-cd21-47ad-9265-8c35844b4a35)
+
+4. List top 5 states contributing to the sales.
+![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/e30e596c-78f7-4112-be4c-458046edbe8e)
+
+5. Relation between age and gender based on number
+![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/3bc9177c-9781-464e-8fb9-a5310f2a1573)
+
+6. which channel is contributing to maximum sales
+![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/e5d87be2-49b1-4ac1-a844-85946060e864)
