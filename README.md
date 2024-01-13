@@ -10,7 +10,6 @@ Vrinda store wants to create an annual sales report for 2022. So that Vrinda can
 5. Relation between age and gender based on number
 6. which channel is contributing to maximum sales
 7. Which month got the highest sales and orders.
-8. Highest selling category.
 
 ## Import Data into Excel 
 ![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/9a4ef5f6-0253-475d-a588-9f812ac06ad2)
