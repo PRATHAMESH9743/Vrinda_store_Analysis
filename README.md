@@ -68,6 +68,9 @@ PROBLEM STATEMENT
 6. which channel is contributing to maximum sales
 ![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/e5d87be2-49b1-4ac1-a844-85946060e864)
 
+## Complete Dashboard
+![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/39e12411-4150-48ad-a0bf-24fd3dc45388)
+
 ## FINDINGS
 1. March month got the highest sales and orders.
 2. Women are more likely to buy compared to men (~65%)
