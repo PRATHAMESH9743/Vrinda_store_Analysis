@@ -19,6 +19,7 @@ Vrinda store wants to create an annual sales report for 2022. So that Vrinda can
 ![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/45dbe21d-dc70-4878-9c9a-7c2193dc426b)
 
 ## Data Cleaning
+## Step 1
 Put Filter to all the column and check for any irregularity.
 In Gender column, The Men, M, Women, W is gievn. we have to repcae the 'M' with Men and 'w' with Women
 
@@ -27,5 +28,14 @@ In Gender column, The Men, M, Women, W is gievn. we have to repcae the 'M' with 
 select the entitr Gender column > press ctrl+H. 
 
 Find and Replace tab will be opened
-Now replace 'M' with Men and 'w' with Women
+Now replace 'M' with Men and 'w' with Women. Follow the same steps for Women with 'W'. 
 ![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/83f5ac41-00a3-4628-9de3-2a730817e2ab)
+
+## Step2
+In Quantity Column, Here Find and Replace one with 1 and Two with 2
+![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/2331b3b2-d9d5-4008-b979-e32205a22868)
+
+Replace one with 1, and do the same thing for two with 2
+![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/4f2b28ed-c3b9-4037-8b4f-9bc3f4b29842)
+
+
