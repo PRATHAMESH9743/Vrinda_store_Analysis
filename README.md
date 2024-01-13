@@ -18,10 +18,10 @@ Vrinda store wants to create an annual sales report for 2022. So that Vrinda can
 ## Load the Data
 ![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/45dbe21d-dc70-4878-9c9a-7c2193dc426b)
 
-## Data Cleaning
+## DATA CLEANING
 ## Step 1
 Put Filter to all the column and check for any irregularity.
-In Gender column, The Men, M, Women, W is gievn. we have to repcae the 'M' with Men and 'w' with Women
+In Gender column, The Men, M, Women, W is given. we have to replace 'M' with Men and 'w' with Women
 
 ![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/5b838dc0-9f71-4db5-93c6-e92a57bc21c6)
 
@@ -37,5 +37,12 @@ In Quantity Column, Here Find and Replace one with 1 and Two with 2
 
 Replace one with 1, and do the same thing for two with 2
 ![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/4f2b28ed-c3b9-4037-8b4f-9bc3f4b29842)
+
+## DATA PROCESSING
+According to the 6th problem statement
+we have to build relation between age and gender,
+we will apply 'IF' condition
+=IF(E2>=60,"Senior",IF(E2>=40,"Middle Aged Adults",IF(E2>=18,"Young Adults",)))
+![image](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/assets/154798147/df14470b-cf42-4b87-bc94-bee954ab3830)
 
 
